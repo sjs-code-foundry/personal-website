@@ -14,6 +14,9 @@ With that said, you can expect this project to become more and more advanced and
 - [ ] Navbar
 - [ ] Header
 - [ ] Footer
+### Performance
+- [ ] Loads quickly & cleanly across a range of connection speeds.
+- [ ] Scales appropriately for both mobile devices and traditional computers.
 ### Widgets
 #### Tools for Railway Modellers
 - [ ] Track curve calculator (Draw accurate curves without a compass).
