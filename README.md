@@ -1,7 +1,9 @@
 # Personal Portfolio Website Code
-The inner workings of my personal portfolio website.
+The inner workings of my personal portfolio website, featuring HTML, CSS & Javascript.
 ## Motivation
-[TBD]
+The object behind this site is to showcase my skills as a developer.  To this end I intend not only to create an attractive, functional and fast website that scales well across different platforms, resolutions and connection speeds, but offers a range of useful tools that I and others can use in my personal interests.
+
+With that said, you can expect this project to become more and more advanced and polish as my skills improve.
 ## Dependencies
 [TBD]
 ## Changelog
