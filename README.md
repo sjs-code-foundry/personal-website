@@ -10,10 +10,10 @@ With that said, you can expect this project to become more and more advanced and
 - v0.1.0 - Initial Release
 ## Planned Features
 ### Functional
-- [ ] Homepage
-- [ ] Navbar
-- [ ] Header
-- [ ] Footer
+- [x] Homepage
+- [x] Navbar
+- [x] Header
+- [x] Footer
 ### Performance
 - [ ] Loads quickly & cleanly across a range of connection speeds.
 - [ ] Scales appropriately for both mobile devices and traditional computers.
