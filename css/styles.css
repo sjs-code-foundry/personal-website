@@ -1,0 +1,194 @@
+/* Universal Properties */
+
+main {
+    display: flex;
+    justify-content: space-around;
+}
+
+body {
+    font-family: 'Helvetica', 'Arial', Sans-Serif;
+    background: #171219; /*Licorice - BG Colour*/
+    color: #EAEAEA; /*Platinum - Text Colour*/
+}
+
+/* Link Properties */
+
+a:link {
+    background-color: #44CF6C;
+    color: #EAEAEA;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none; /*Removes underline*/
+    display: inline-block;
+}
+
+a:visited {
+    background-color: #44CF6C; /*Hooker's Green - Visited Link Colour*/
+    color: #171219;
+}
+
+a:hover {
+    background-color: #648381;
+    color: #EAEAEA;
+}
+
+a:active {
+    background-color: #436436; /*Hunter's Green - Active Link Colour*/
+    color: #EAEAEA;
+}
+
+/* Dividers */
+
+hr {
+    height: 2px;
+    border-width: 0;
+    color:#44CF6C;
+    background-color:#44CF6C; /*Emerald - Divider Colour*/
+}
+
+/* Dropdown Menu Elements */
+
+.drop-btn {
+    background-color: #44CF6C;
+    color: #EAEAEA;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    font-size: 140%;
+    font-family: inherit;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute; /*Fixes position onto assigned location*/
+    background-color: #EAEAEA;
+    min-width: 100px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1; /*Force menu to overlap other elements (z-index is 0 by default)*/
+}
+
+.dropdown-content a {
+    background-color: #EAEAEA;
+    color: #171219;
+    padding: 10px 20px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: #648381;
+    border-radius: 0;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .drop-btn {
+    background-color: #648381;
+}
+
+/* Footer Elements */
+
+.footer {
+    display: block;
+    text-align: right;
+    padding-right: 20px;
+}
+
+/* Header Elements */
+
+.header-home:link {
+    background-color: #171219;
+    color: #EAEAEA;
+    padding: 0;
+    border-radius: 0;
+    text-align: center;
+    text-decoration: none; /*Removes underline*/
+    display: inline-block;
+}
+
+.header-home:visited {
+    background-color: #171219;
+    color: #EAEAEA;
+}
+
+.header-home:hover {
+    background-color: #171219;
+    color: #EAEAEA;
+}
+
+.header-home:active {
+    background-color: #171219;
+    color: #EAEAEA;
+}
+
+.header-space {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 2%;
+}
+
+.header-links {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 2%;
+}
+
+.header-vline {
+    font-size: 140%;
+}
+
+/* Homepage Elements */
+
+.headshot {
+    margin: 3%;
+    width: 33%; /*Percentage of screen size for cross-platform useability*/
+    border-top: 20px;
+    border-left: 20px;
+    border-right: 20px;
+    border-bottom: 0;
+    border-style: solid;
+    border-color: #EAEAEA;
+}
+
+.home-body {
+    display: block;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+/* Profile Elements */
+
+.pro-portrait {
+    margin: 3%;
+    width: 33%;
+}
+
+/* Standard Buttons */
+
+.std-button {
+    padding: 8px 18px;
+    color: #171219;
+    background-color: #44CF6C;
+    border: 2px solid #44CF6C;
+    border-radius: 5px;
+    font-size: 125%;
+    font-family: inherit;
+}
+
+.std-button:hover {
+    border: 2px solid #648381;
+    background-color: #648381;
+}
+
+.std-button:active {
+    border: 2px solid #436436;
+    background-color: #436436;
+}
