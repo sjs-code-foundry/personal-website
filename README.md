@@ -9,15 +9,28 @@ With that said, you can expect this project to become more and more advanced and
 ## Changelog
 - v0.1.0 - Initial Release
 ## Planned Features
+- [ ] URGENT - Get Github commits working!
 ### Functional
 - [x] Homepage
-- [x] Navbar
+- [ ] Navbar
 - [x] Header
 - [x] Footer
+### Content
+#### Home Page
+- [ ] Introductory blurb
+- [ ] Large Headshot
+#### Project Pages
+- [ ] Placeholder Content
+#### About Page
+- [ ] More detailed information wrt my coding journey so far
+- [ ] Larger full-body shot
+#### Contact Page
+- [ ] Email address
+- [ ] LinkedIn
 ### Performance
 - [ ] Loads quickly & cleanly across a range of connection speeds.
 - [ ] Scales appropriately for both mobile devices and traditional computers.
-### Widgets
+### Project Pages
 #### Tools for Railway Modellers
 - [ ] Track curve calculator (Draw accurate curves without a compass).
 - [ ] Batch scale converter (Feed in IRL measurements to template .csv, then convert online, also allowing .csv download to local machine).
