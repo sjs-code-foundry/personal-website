@@ -9,6 +9,7 @@ With that said, you can expect this project to become more and more advanced and
 ## Changelog
 - v0.1.0 - Initial Release
 ## Planned Features
+- [ ] URGENT - Get Github commits working!
 ### Functional
 - [x] Homepage
 - [ ] Navbar
