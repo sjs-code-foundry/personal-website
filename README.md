@@ -34,5 +34,6 @@ With that said, you can expect this project to become more and more advanced and
 #### Tools for Railway Modellers
 - [ ] Track curve calculator (Draw accurate curves without a compass).
 - [ ] Batch scale converter (Feed in IRL measurements to template .csv, then convert online, also allowing .csv download to local machine).
+- [ ] Ticket Generator (embeddable BR tickets to/from any location to your layout).
 #### Productivity
 - [ ] Practice Roulette (Choose from local DB of practice tasks and serve based on time since last practice).
