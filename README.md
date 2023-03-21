@@ -9,7 +9,7 @@ With that said, you can expect this project to become more and more advanced and
 ## Changelog
 - v0.1.0 - Initial Release
 ## Planned Features
-- [ ] URGENT - Get Github commits working!
+- [x] URGENT - Get Github commits working!
 ### Functional
 - [x] Homepage
 - [ ] Navbar
@@ -18,12 +18,12 @@ With that said, you can expect this project to become more and more advanced and
 ### Content
 #### Home Page
 - [ ] Introductory blurb
-- [ ] Large Headshot
+- [x] Large Headshot
 #### Project Pages
 - [ ] Placeholder Content
 #### About Page
 - [ ] More detailed information wrt my coding journey so far
-- [ ] Larger full-body shot
+- [x] Larger full-body shot
 #### Contact Page
 - [ ] Email address
 - [ ] LinkedIn
