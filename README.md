@@ -15,6 +15,8 @@ With that said, you can expect this project to become more and more advanced and
 - [ ] Navbar
 - [x] Header
 - [x] Footer
+#### Usability
+- [ ] Add alt text to images
 ### Content
 #### Home Page
 - [ ] Introductory blurb
